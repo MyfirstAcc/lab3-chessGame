@@ -1,0 +1,14 @@
+%Sprite_king/0/2/300/330/black% 
+%Sprite_queen/0/3/300/330/black%
+%Sprite_bishop/0/4/300/330/black%
+%Sprite_knight/0/5/300/330/black%
+%Sprite_rook/0/6/300/330/black%
+%Sprite_pawn/0/7/300/330/black%
+%Sprite_pawn/1/7/300/330/black%
+
+%Sprite_king/7/2/300/330/white% 
+%Sprite_queen/7/3/300/330/white%
+%Sprite_bishop/7/4/300/330/white%
+%Sprite_knight/7/5/300/330/white%
+%Sprite_rook/7/6/300/330/white%
+%Sprite_pawn/7/7/300/330/white%
